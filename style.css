@@ -1,0 +1,12 @@
+*{
+    padding:0;
+    margin:0;
+    
+}
+.head{
+    background-size:100% 100%;
+    width:100%;
+}
+.col-lg-6 h4{
+    Color:red;
+}
